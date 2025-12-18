@@ -1,4 +1,4 @@
-FROM mautic/mautic:6-apache
+FROM mautic/mautic:5.2.9-20251215-apache
 
 ARG MAUTIC_DB_HOST
 ARG MAUTIC_DB_PORT
