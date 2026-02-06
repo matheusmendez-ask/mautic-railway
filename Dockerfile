@@ -1,4 +1,4 @@
-FROM mautic/mautic:6-fpm
+FROM mautic/mautic:5-apache
 
 ARG MAUTIC_DB_HOST
 ARG MAUTIC_DB_PORT
